@@ -15,6 +15,7 @@ import ImageReveal from "./Components/lightswind/image-reveal";
 import ImageTrailEffect from "./Components/lightswind/image-trail-effect";
 import InteractiveGradient from "./Components/lightswind/interactive-gradient-card";
 import MagicLoader from "./Components/lightswind/magic-loader";
+import SingleVilla from "./Components/onno/SingleVilla";
 
 function App() {
   const imageUrls = [
@@ -248,7 +249,7 @@ function App() {
 
         {/*  */}
         <div className="">
-
+          <SingleVilla/>
         </div>
 
 
